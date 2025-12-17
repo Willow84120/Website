@@ -60,6 +60,7 @@ header {
 .left {
     display:flex;
     width:15%;
+    margin 2%;
 }
 
 .mid {
