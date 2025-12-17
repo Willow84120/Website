@@ -30,8 +30,8 @@ img {
 }
 
 .image1:hover {
-    width: 350px;
-    height: 450px;
+    max-width: 14%; 
+    height: auto;
     box-shadow: 0px 0px 50px;    
 }
 
