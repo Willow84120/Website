@@ -59,14 +59,15 @@ header {
 
 .left {
     display:flex;
-    width:15%;
+    width:20%;
     margin 2%;
     padding 2%;
+    flex-direction: row;
 }
 
 .mid {
     display:flex;
-    width: 45%;
+    width: 40%;
 }
 
 section {
