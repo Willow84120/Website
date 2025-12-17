@@ -35,7 +35,7 @@ img {
 }
 
 .headbar:hover {
-    font-size: 1.75em;
+    font-size: 1.65em;
     color:#ffffff;
     text-decoration: none;
     margin: 2%;
@@ -46,7 +46,7 @@ header {
     background-color: #e90d0d;
     display:flex;
     align-items: center;
-    height: 60px;
+    height: 100px;
 }
 
 .left {
