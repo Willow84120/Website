@@ -15,14 +15,6 @@ p {
 }
 
 
-.logo {
-    width: 40px;
-    height: 40px;
-    border-style:none;
-    margin: 2%;
-    box-shadow: none;
-}
-
 img {
     max-width: 10%; 
     height: auto;
@@ -72,7 +64,6 @@ header {
 section {
     margin: 3%;
 }
-
 .right {
     justify-content: space-around;
     display: flex;
@@ -89,14 +80,18 @@ section {
     display: flex;
 }
 
-.text {
-    flex-direction: row;
+.liensite {
+    font-size: 1em ;
+    text-decoration: none;
+    color: black;
+    margin: 2%;
 }
 
-.liensite:hover {
-    font-size: 1.10em ;
-}
 
 footer {
     margin: 3%;
+}
+
+.secret {
+    color: white;
 }
