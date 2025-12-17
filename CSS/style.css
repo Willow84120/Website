@@ -91,7 +91,6 @@ section {
 
 .text {
     flex-direction: row;
-    display: flex;
 }
 
 .liensite:hover {
