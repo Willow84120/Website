@@ -1,0 +1,100 @@
+body {
+    background-color: #ffffff;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif , Helvetica, sans-serif, Arial ;
+    font-size: medium;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+
+.logo {
+    width: 40px;
+    height: 40px;
+    border-style:none;
+    margin: 2%;
+    box-shadow: none;
+}
+
+img {
+    width: 300px;
+    height: 400px;
+    box-shadow: 0px 0px 50px;
+}
+
+.image1:hover {
+    width: 350px;
+    height: 450px;
+    box-shadow: 0px 0px 50px;    
+}
+
+.headbar {
+    font-size: 1.55em;
+    color:#ffffff;
+    text-decoration: none;
+    margin: 2%;
+}
+
+.headbar:hover {
+    font-size: 1.75em;
+    color:#ffffff;
+    text-decoration: none;
+    margin: 2%;
+}
+
+header {
+    width: 100%;
+    background-color: #e90d0d;
+    display:flex;
+    align-items: center;
+
+}
+
+.left {
+    display:flex;
+    width:15%;
+}
+
+.mid {
+    display:flex;
+    width: 45%;
+}
+
+section {
+    margin: 3%;
+}
+
+.right {
+    justify-content: space-around;
+    display: flex;
+    width: 40%;
+    flex-direction: row;
+}
+
+.paragraphe {
+    display:flex;
+    margin: 15%;
+}
+
+.globale {
+    display: flex;
+}
+
+.text {
+    flex-direction: row;
+}
+
+.liensite:hover {
+    font-size: 1.10em ;
+}
+
+footer {
+    margin: 3%;
+}
