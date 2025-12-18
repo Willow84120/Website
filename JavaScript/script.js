@@ -1,6 +1,7 @@
 
 function enableDarkMode() {
-  let styleSheet = document.getElementById('dark-mode-styles');
+
+  
   if (!styleSheet) {
     styleSheet = document.createElement('style');
     styleSheet.id = 'dark-mode-styles';

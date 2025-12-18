@@ -56,6 +56,26 @@ header {
 
 }
 
+button.changementducssmn {
+    font-size: 1.55em;
+    border-style:none;
+    background-color: #e90d0d;
+    color: #ffffff;
+    font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: medium;
+    transition: transform 0.2s ease;
+}
+
+button.changementducssmn:hover {
+    font-size: 1.55em;
+    background-color: #e90d0d;
+    color: #ffffff;
+    font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: medium;
+    transform: scale(1.03);
+}
+
+
 .mid {
     display:flex;
     width: 40%;
