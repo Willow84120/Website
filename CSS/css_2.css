@@ -32,6 +32,14 @@ button.changementducssmn:hover {
     cursor: pointer;
 }
 
+
+.image1 {
+    display: none;
+}
+
+.image_mode_sombre {
+    display: block;
+}
 header {
     width: 100%;
     background-color:violet;
