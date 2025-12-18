@@ -45,7 +45,7 @@ button.changementducssmn:hover {
 
 .image_mode_sombre:hover {
     display: block;
-    transition: scale(1.35);
+    transform: scale(1.03);
 }
 
 
@@ -55,4 +55,8 @@ header {
     display:flex;
     align-items: center;
     height: 89px;
+}
+
+mark{
+    background-color: violet;
 }
