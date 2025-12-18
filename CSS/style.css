@@ -15,8 +15,6 @@ p {
 }
 
 
-
-
 .headbar {
     font-size: 1.55em;
     color:#ffffff;
@@ -27,7 +25,7 @@ p {
 }
 
 .headbar:hover {
-    transform: scale(1.03);
+    transform: scale(1.35);
     color:#ffffff;
     text-decoration: none;
     cursor: pointer;
@@ -42,9 +40,8 @@ header {
 }
 
 .left {
-    display:flex;
-    width:25%;
-    margin: 2%;
+    width:15%;
+    margin: 4%;
 
 }
 
@@ -65,18 +62,18 @@ button.changementducssmn:hover {
     color: #ffffff;
     font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", Arial, Helvetica, sans-serif;
     font-size: medium;
-    transform: scale(1.03);
+    transform: scale(1.35);
     cursor: pointer;
 }
 
 
 .mid {
     display:flex;
-    width: 40%;
+    width: 35%;
 }
 
 section {
-    margin: 3%;
+    margin: 4%;
 }
 .right {
     justify-content: space-around;

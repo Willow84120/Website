@@ -1,7 +1,41 @@
 body {
-  background: black;
+  background: #121212;
   color: white;
 }
 .secret {
-    color:black;
+    color: #121212;
+}
+
+.paragraphe {
+    display:flex;
+    margin: 20%;
+}
+
+button.changementducssmn {
+    font-size: 1.55em;
+    border-style:none;
+    background-color: violet;
+    color: #ffffff;
+    font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: medium;
+    transition: transform 0.2s ease;
+    cursor: pointer;
+}
+
+button.changementducssmn:hover {
+    font-size: 1.55em;
+    background-color:violet;
+    color: #ffffff;
+    font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: medium;
+    transform: scale(1.35);
+    cursor: pointer;
+}
+
+header {
+    width: 100%;
+    background-color:violet;
+    display:flex;
+    align-items: center;
+    height: 89px;
 }
