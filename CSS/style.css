@@ -64,7 +64,6 @@ button.changementducssmn {
     background-color: #e90d0d;
     color: #ffffff;
     font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", Arial, Helvetica, sans-serif;
-    font-size: medium;
     transition: transform 0.2s ease;
     cursor: pointer;
 }
@@ -74,7 +73,6 @@ button.changementducssmn:hover {
     background-color: #e90d0d;
     color: #ffffff;
     font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", Arial, Helvetica, sans-serif;
-    font-size: medium;
     transform: scale(1.35);
     cursor: pointer;
 }
