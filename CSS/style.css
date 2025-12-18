@@ -15,17 +15,7 @@ p {
 }
 
 
-img {
-    max-width: 10%; 
-    height: auto;
-    box-shadow: 0px 0px 50px;
-    transition: transform 0.2s ease;
-}
 
-.image1:hover {
-    transform: scale(1.03);
-    box-shadow: 0px 0px 50px;    
-}
 
 .headbar {
     font-size: 1.55em;
@@ -33,12 +23,14 @@ img {
     text-decoration: none;
     margin: 1%;
     transition: transform 0.2s ease;
+    cursor: pointer;
 }
 
 .headbar:hover {
     transform: scale(1.03);
     color:#ffffff;
     text-decoration: none;
+    cursor: pointer;
 }
 
 header {
@@ -64,6 +56,7 @@ button.changementducssmn {
     font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", Arial, Helvetica, sans-serif;
     font-size: medium;
     transition: transform 0.2s ease;
+    cursor: pointer;
 }
 
 button.changementducssmn:hover {
@@ -73,6 +66,7 @@ button.changementducssmn:hover {
     font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", Arial, Helvetica, sans-serif;
     font-size: medium;
     transform: scale(1.03);
+    cursor: pointer;
 }
 
 
@@ -104,6 +98,7 @@ section {
     font-size: 1em ;
     color: palevioletred;
     margin: 2%;
+    cursor: pointer;
 }
 
 
