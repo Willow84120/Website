@@ -21,7 +21,7 @@ ul {
 }
 
 ul li {
-  list-style:
+    margin:1%;
 }
 
 .headbar {
@@ -114,13 +114,11 @@ section {
 }
 
 
-footer {
-    margin: 3%;
-}
 
 .secret {
     color: white;
     text-decoration: none;
+    margin-left: 5%;
 }
 
 img {
