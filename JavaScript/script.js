@@ -1,4 +1,8 @@
+document.addEventListener("DOMContentLoaded", () => {
+    const bouton = document.querySelector(".changementducssmn");
+    const cssNuit = document.getElementById("mn");
 
-const modenuit = document.getElementById("css_2.css");
-changementducssmn.onclick = () =>
-  modenuit.disabled = !modenuit.disabled;
+    bouton.addEventListener("click", () => {
+        cssNuit.disabled = !cssNuit.disabled;
+    });
+});

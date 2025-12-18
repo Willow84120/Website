@@ -1,4 +1,7 @@
 body {
-  background: #121212;
+  background: black;
   color: white;
+}
+.secret {
+    color:black;
 }
