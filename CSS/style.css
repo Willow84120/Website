@@ -82,7 +82,7 @@ button.changementducssmn:hover {
 }
 .mid {
     display:flex;
-    width: 35%;
+    width: 33%;
 }
 
 section {
@@ -91,7 +91,7 @@ section {
 .right {
     justify-content: space-around;
     display: flex;
-    width: 40%;
+    width: 42%;
     flex-direction: row;
 }
 
