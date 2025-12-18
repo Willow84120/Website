@@ -33,7 +33,7 @@ p {
 
 header {
     width: 100%;
-    background-color: e90d0d;
+    background-color: #e90d0d;
     display:flex;
     align-items: center;
     height: 100px;
@@ -48,7 +48,7 @@ header {
 button.changementducssmn {
     font-size: 1.55em;
     border-style:none;
-    background-color: e90d0d;
+    background-color: #e90d0d;
     color: #ffffff;
     font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", Arial, Helvetica, sans-serif;
     font-size: medium;
@@ -58,7 +58,7 @@ button.changementducssmn {
 
 button.changementducssmn:hover {
     font-size: 1.55em;
-    background-color: e90d0d;
+    background-color: #e90d0d;
     color: #ffffff;
     font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", Arial, Helvetica, sans-serif;
     font-size: medium;
